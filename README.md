@@ -1,2 +1,3 @@
 # Unit-Converter
-Web page that can convert different units.
+Site that can convert different units and generate random numbers.
+
